@@ -1,1 +1,0 @@
-# Scalable-cloud-infrastructure-with-auto-scaling-
